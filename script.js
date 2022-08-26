@@ -1,6 +1,7 @@
 var dt = new Date();
 document.getElementById('date').innerHTML=dt;
 function YES(){
+  document.getElementById('audio').style.display = "block";
   document.getElementById('yours').style.display = "block";
   document.getElementById('date').style.display = "block";
   document.getElementById('kilig').style.display = "block";
