@@ -23,7 +23,8 @@
 }
 #kilig{
     width: 400px;
-    margin-top: 40%;
+    position: fixed;
+    margin-top: 35%;
     margin-left: 30%;
     display: none;
 }
