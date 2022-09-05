@@ -2,7 +2,7 @@
     font-family: 'Courier New', Courier, monospace;
     font-size: 50px;
     margin-top: 10%;
-    margin-left: 30%;
+    margin-left: 15%;
     position: absolute;
 }
 #yours{
@@ -10,7 +10,7 @@
     position: absolute;
     font-size: 50px;
     margin-top: 3%;
-    margin-left: 20%;
+    margin-left: 8%;
     display: none;
 }
 #date{
